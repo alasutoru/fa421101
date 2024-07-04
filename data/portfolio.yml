@@ -1,0 +1,229 @@
+portfolioitems:
+  # portfolio category
+  - title: 羅小米原創
+    description: '下班後的作品集'
+    portfolioitem:
+      - name: 木棉花
+        image: '/images/portfolio/木棉花.gif'
+      - name: 雨中
+        image: '/images/portfolio/雨中.gif'
+      - name: 天地問相思
+        image: '/images/portfolio/天地問相思.gif'        
+      - name: 101
+        image: '/images/portfolio/101.gif'
+      - name: 兔年祝福
+        image: '/images/portfolio/兔年祝福.gif'
+      - name: 聖誕節快樂
+        image: '/images/portfolio/聖誕節快樂.gif'
+      - name: 雨蛙
+        image: '/images/portfolio/雨蛙.gif'
+      - name: Merry X
+        image: '/images/portfolio/m.gif'
+      - name: 中秋
+        image: '/images/portfolio/中秋.gif'
+      - name: 25
+        image: '/images/portfolio/25.jpg'
+      - name: 妳依然在夢裡翩翩
+        image: '/images/portfolio/妳依然在夢裡翩翩.gif'
+      - name: 梅雨
+        image: '/images/portfolio/梅雨.gif'
+      - name: 春雨不停
+        image: '/images/portfolio/春雨不停.gif'
+      - name: 圖框動
+        image: '/images/portfolio/圖框動.gif'
+      - name: 最喜歡看妳
+        image: '/images/portfolio/最喜歡看妳.gif'
+      - name: 春雨杜鵑花
+        image: '/images/portfolio/春雨杜鵑花.gif'
+      - name: 123-1
+        image: '/images/portfolio/123-1.jpg'
+      - name: 小雨中的回憶
+        image: '/images/portfolio/小雨中的回憶.gif'
+      - name: 2014情人節
+        image: '/images/portfolio/2014情人節.jpg'
+      - name: 99中秋
+        image: '/images/portfolio/99中秋.jpg'
+      - name: 122-A
+        image: '/images/portfolio/122-A.jpg'
+      - name: 2015賀新年
+        image: '/images/portfolio/2015賀新年.jpg'
+      - name: 2015新年
+        image: '/images/portfolio/2015新年.jpg'
+      - name: 20160402-1
+        image: '/images/portfolio/20160402-1.jpg'
+      - name: 20160402-3
+        image: '/images/portfolio/20160402-3.jpg'
+      - name: 20160402-4
+        image: '/images/portfolio/20160402-4.jpg'
+      - name: 白首的誓言
+        image: '/images/portfolio/白首的誓言.jpg'
+      - name: 布達拉宮
+        image: '/images/portfolio/布達拉宮.jpg'
+      - name: 部落格是我的垃圾桶
+        image: '/images/portfolio/部落格是我的垃圾桶.jpg'
+      - name: 馬年祝福
+        image: '/images/portfolio/馬年祝福.jpg'
+      - name: 沒有離別
+        image: '/images/portfolio/沒有離別.jpg'
+      - name: 沒有理由的偶然
+        image: '/images/portfolio/沒有理由的偶然.jpg'
+      - name: 美麗的記憶
+        image: '/images/portfolio/美麗的記憶.jpg'
+      - name: 美人的長髮
+        image: '/images/portfolio/美人的長髮.jpg'
+      - name: 夢變得苦澀
+        image: '/images/portfolio/夢變得苦澀.jpg'
+      - name: 母親節
+        image: '/images/portfolio/母親節.jpg'
+      - name: 風箏
+        image: '/images/portfolio/風箏.jpg'
+      - name: 楓葉也難紅
+        image: '/images/portfolio/楓葉也難紅.jpg'
+      - name: 打開心窗
+        image: '/images/portfolio/打開心窗.jpg'
+      - name: 當愛已成往事
+        image: '/images/portfolio/當愛已成往事.jpg'
+      - name: 訂做一個天堂
+        image: '/images/portfolio/訂做一個天堂.jpg'
+      - name: 獨自喝下這杯苦酒
+        image: '/images/portfolio/獨自喝下這杯苦酒.jpg'
+      - name: 朵朵寒梅點點愁
+        image: '/images/portfolio/朵朵寒梅點點愁.jpg'
+      - name: 疼你若生命
+        image: '/images/portfolio/疼你若生命.jpg'
+      - name: 天堂夢境
+        image: '/images/portfolio/天堂夢境.jpg'
+      - name: 甜蜜的負擔
+        image: '/images/portfolio/甜蜜的負擔.jpg'
+      - name: 塗鴉客
+        image: '/images/portfolio/塗鴉客.jpg'
+      - name: 那燦爛的瞬間
+        image: '/images/portfolio/那燦爛的瞬間.jpg'
+      - name: 那一日
+        image: '/images/portfolio/那一日.jpg'
+      - name: 你的人生是喜劇嗎
+        image: '/images/portfolio/你的人生是喜劇嗎.jpg'
+      - name: 藍鵲
+        image: '/images/portfolio/藍鵲.jpg'
+      - name: 冷冷的眸子
+        image: '/images/portfolio/冷冷的眸子.jpg'
+      - name: 流言
+        image: '/images/portfolio/流言.jpg'
+      - name: 蓮
+        image: '/images/portfolio/蓮.jpg'
+      - name: 蓮花無語
+        image: '/images/portfolio/蓮花無語.jpg'
+      - name: 落下的葉子
+        image: '/images/portfolio/落下的葉子.jpg'
+      - name: 綠蔭楓紅
+        image: '/images/portfolio/綠蔭楓紅.jpg'
+      - name: 耕夫召募
+        image: '/images/portfolio/耕夫召募.jpg'
+      - name: 皈依學佛就能永處順境
+        image: '/images/portfolio/皈依學佛就能永處順境.jpg'
+      - name: 寒食東風御柳斜
+        image: '/images/portfolio/寒食東風御柳斜.jpg'
+      - name: 幻
+        image: '/images/portfolio/幻.jpg'
+      - name: 紅白玫瑰
+        image: '/images/portfolio/紅白玫瑰.jpg'
+      - name: 今晚適合失眠
+        image: '/images/portfolio/今晚適合失眠.jpg'
+      - name: 降伏法是降伏自性
+        image: '/images/portfolio/降伏法是降伏自性.jpg'
+      - name: 靜謐的午後
+        image: '/images/portfolio/靜謐的午後.jpg'
+      - name: 聚樂園
+        image: '/images/portfolio/聚樂園.jpg'
+      - name: 七月花神
+        image: '/images/portfolio/七月花神.jpg'
+      - name: 期待春天
+        image: '/images/portfolio/期待春天.jpg'
+      - name: 秋的午後
+        image: '/images/portfolio/秋的午後.jpg'
+      - name: 秋天
+        image: '/images/portfolio/秋天.jpg'
+      - name: 清明時節
+        image: '/images/portfolio/清明時節.jpg'
+      - name: 夏天就在不遠處
+        image: '/images/portfolio/夏天就在不遠處.jpg'
+      - name: 向天湖
+        image: '/images/portfolio/向天湖.jpg'
+      - name: 幸福
+        image: '/images/portfolio/幸福.jpg'
+      - name: 執著的妳
+        image: '/images/portfolio/執著的妳.jpg'
+      - name: 張家界
+        image: '/images/portfolio/張家界.jpg'
+      - name: 專業顧門口
+        image: '/images/portfolio/專業顧門口.jpg'
+      - name: 中秋
+        image: '/images/portfolio/中秋.jpg'
+      - name: 潮濕的火柴
+        image: '/images/portfolio/潮濕的火柴.jpg'
+      - name: 趁青春猶在
+        image: '/images/portfolio/趁青春猶在.jpg'
+      - name: 城市夜未眠
+        image: '/images/portfolio/城市夜未眠.jpg'
+      - name: 初紅的楓葉
+        image: '/images/portfolio/初紅的楓葉.jpg'
+      - name: 春風悄悄耳語
+        image: '/images/portfolio/春風悄悄耳語.jpg'
+      - name: 春天
+        image: '/images/portfolio/春天.jpg'
+      - name: 春雷輕響
+        image: '/images/portfolio/春雷輕響.jpg'
+      - name: 春光
+        image: '/images/portfolio/春光.jpg'
+      - name: 春困上身
+        image: '/images/portfolio/春困上身.jpg'
+      - name: 春城無處不飛花
+        image: '/images/portfolio/春城無處不飛花.jpg'
+      - name: 窗外蟬
+        image: '/images/portfolio/窗外蟬.jpg'
+      - name: 生命中的偶然
+        image: '/images/portfolio/生命中的偶然.jpg'
+      - name: 生命中另一個錯身
+        image: '/images/portfolio/生命中另一個錯身.jpg'
+      - name: 生日
+        image: '/images/portfolio/生日.jpg'
+      - name: 生日感謝-1
+        image: '/images/portfolio/生日感謝-1.jpg'
+      - name: 如果沒有愛情
+        image: '/images/portfolio/如果沒有愛情.jpg'
+      - name: 紫藤花
+        image: '/images/portfolio/紫藤花.jpg'
+      - name: 曾經
+        image: '/images/portfolio/曾經.jpg'
+      - name: 曾經以為
+        image: '/images/portfolio/曾經以為.jpg'
+      - name: 歲月無法觸摸的角落
+        image: '/images/portfolio/歲月無法觸摸的角落.jpg'
+      - name: 碎心
+        image: '/images/portfolio/碎心.jpg'
+      - name: 一抹輕煙
+        image: '/images/portfolio/一抹輕煙.jpg'
+      - name: 夜掉落深秋
+        image: '/images/portfolio/夜掉落深秋.jpg'
+      - name: 要妳當我新娘
+        image: '/images/portfolio/要妳當我新娘.jpg'
+      - name: 我的眼光
+        image: '/images/portfolio/我的眼光.jpg'
+      - name: 我若無心
+        image: '/images/portfolio/我若無心.jpg'
+      - name: 微風吹
+        image: '/images/portfolio/微風吹.jpg'
+      - name: 微笑
+        image: '/images/portfolio/微笑.jpg'
+      - name: 遇見妳
+        image: '/images/portfolio/遇見妳.jpg'
+      - name: 月光
+        image: '/images/portfolio/月光.jpg'
+      - name: no1
+        image: '/images/portfolio/no1.jpg'
+      - name: no2
+        image: '/images/portfolio/no2.jpg'
+      - name: no3
+        image: '/images/portfolio/no3.jpg'
+      - name: 
+        image: '/images/portfolio/.jpg'
