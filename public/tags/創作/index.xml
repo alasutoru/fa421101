@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>創作 on 回眸處剪影</title>
-    <link>https://alasutoru.github.io/fa421101/tags/%E5%89%B5%E4%BD%9C/</link>
+    <link>http://localhost:1313/fa421101/tags/%E5%89%B5%E4%BD%9C/</link>
     <description>Recent content in 創作 on 回眸處剪影</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://alasutoru.github.io/fa421101/tags/%E5%89%B5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Feb 2015 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fa421101/tags/%E5%89%B5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>迎春花</title>
-      <link>https://alasutoru.github.io/fa421101/post/%E8%BF%8E%E6%98%A5%E8%8A%B1/</link>
+      <link>http://localhost:1313/fa421101/post/%E8%BF%8E%E6%98%A5%E8%8A%B1/%E8%BF%8E%E6%98%A5%E8%8A%B1/</link>
       <pubDate>Sat, 14 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://alasutoru.github.io/fa421101/post/%E8%BF%8E%E6%98%A5%E8%8A%B1/</guid>
+      <guid>http://localhost:1313/fa421101/post/%E8%BF%8E%E6%98%A5%E8%8A%B1/%E8%BF%8E%E6%98%A5%E8%8A%B1/</guid>
       
         <description>今天回家， 突然注意到， 社區庭園多種花朵， 早已綻放枝頭。
 一朵朵花蕾， 在冷風中， 微笑， 原來萬物， 早已蠢蠢欲動。</description>
@@ -20,11 +20,23 @@
     </item>
     
     <item>
+      <title>山櫻花戀</title>
+      <link>http://localhost:1313/fa421101/post/%E5%B1%B1%E6%AB%BB%E8%8A%B1/%E5%B1%B1%E6%AB%BB%E8%8A%B1/</link>
+      <pubDate>Tue, 03 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa421101/post/%E5%B1%B1%E6%AB%BB%E8%8A%B1/%E5%B1%B1%E6%AB%BB%E8%8A%B1/</guid>
+      
+        <description>知道， 花期來得快， 去得急， 短暫而熱鬧， 我， 匆匆赴約。
+你卻已瞬間， 燃燒成一片花海， 一種， 憂鬱的， 深紫暗紅。</description>
+      
+    </item>
+    
+    <item>
       <title>思念的嘆息</title>
-      <link>https://alasutoru.github.io/fa421101/post/%E6%80%9D%E5%BF%B5%E7%9A%84%E5%98%86%E6%81%AF/</link>
+      <link>http://localhost:1313/fa421101/post/%E6%80%9D%E5%BF%B5%E7%9A%84%E5%98%86%E6%81%AF/</link>
       <pubDate>Sun, 10 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alasutoru.github.io/fa421101/post/%E6%80%9D%E5%BF%B5%E7%9A%84%E5%98%86%E6%81%AF/</guid>
+      <guid>http://localhost:1313/fa421101/post/%E6%80%9D%E5%BF%B5%E7%9A%84%E5%98%86%E6%81%AF/</guid>
       
         <description>曾寫一些詩 蒐藏 心底角落的 溫柔記憶 等有一天 再掀開 早已失落的回憶 思念的嘆息</description>
       
@@ -32,10 +44,10 @@
     
     <item>
       <title>一條漁船</title>
-      <link>https://alasutoru.github.io/fa421101/post/%E4%B8%80%E6%A2%9D%E6%BC%81%E8%88%B9/</link>
+      <link>http://localhost:1313/fa421101/post/%E4%B8%80%E6%A2%9D%E6%BC%81%E8%88%B9/</link>
       <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alasutoru.github.io/fa421101/post/%E4%B8%80%E6%A2%9D%E6%BC%81%E8%88%B9/</guid>
+      <guid>http://localhost:1313/fa421101/post/%E4%B8%80%E6%A2%9D%E6%BC%81%E8%88%B9/</guid>
       
         <description>【暮蟬鳴樹間】
 暮蟬鳴樹間， 蟬噪林愈靜， 樹茂有餘音， 林下輕輕過。
@@ -44,11 +56,23 @@
     </item>
     
     <item>
+      <title>禪坐</title>
+      <link>http://localhost:1313/fa421101/post/%E7%A6%AA%E5%9D%90/%E7%A6%AA%E5%9D%90/</link>
+      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fa421101/post/%E7%A6%AA%E5%9D%90/%E7%A6%AA%E5%9D%90/</guid>
+      
+        <description>夏日， 點一爐檀香， 圃團靜坐， 隨著香煙裊裊， 心也跟著沉澱下來。
+深呼吸， 慢慢輕輕， 吸入空氣時觀想由上而下， 配合默念六字真言， 由上， 頂輪、喉輪、心輪、臍輪、至丹田， 再由丹田往上至頂輪， 緩緩吐出口外。</description>
+      
+    </item>
+    
+    <item>
       <title>夏日蟬鳴總是詩</title>
-      <link>https://alasutoru.github.io/fa421101/post/%E5%A4%8F%E6%97%A5%E8%9F%AC%E9%B3%B4%E7%B8%BD%E6%98%AF%E8%A9%A9/</link>
+      <link>http://localhost:1313/fa421101/post/%E5%A4%8F%E6%97%A5%E8%9F%AC%E9%B3%B4%E7%B8%BD%E6%98%AF%E8%A9%A9/</link>
       <pubDate>Mon, 09 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alasutoru.github.io/fa421101/post/%E5%A4%8F%E6%97%A5%E8%9F%AC%E9%B3%B4%E7%B8%BD%E6%98%AF%E8%A9%A9/</guid>
+      <guid>http://localhost:1313/fa421101/post/%E5%A4%8F%E6%97%A5%E8%9F%AC%E9%B3%B4%E7%B8%BD%E6%98%AF%E8%A9%A9/</guid>
       
         <description>昨日， 運動完做毛巾操時， 好像聽到蟬鳴， 注意聽時， 還真的， 有輕聲的蟬叫聲了。
 幾聲蟬鳴， 早早把春天， 那輕撫的春風， 毫不客氣的， 趕走。</description>
@@ -57,10 +81,10 @@
     
     <item>
       <title>雨叩門窗終不聞</title>
-      <link>https://alasutoru.github.io/fa421101/post/%E9%9B%A8%E5%8F%A9%E9%96%80%E7%AA%97%E7%B5%82%E4%B8%8D%E8%81%9E/</link>
+      <link>http://localhost:1313/fa421101/post/%E9%9B%A8%E5%8F%A9%E9%96%80%E7%AA%97%E7%B5%82%E4%B8%8D%E8%81%9E/</link>
       <pubDate>Wed, 21 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alasutoru.github.io/fa421101/post/%E9%9B%A8%E5%8F%A9%E9%96%80%E7%AA%97%E7%B5%82%E4%B8%8D%E8%81%9E/</guid>
+      <guid>http://localhost:1313/fa421101/post/%E9%9B%A8%E5%8F%A9%E9%96%80%E7%AA%97%E7%B5%82%E4%B8%8D%E8%81%9E/</guid>
       
         <description>一夜梅雨雨紛紛， 也思故友也思君。 桌前思詞人專注， 雨叩門窗終不聞。
 雨夜深沉
@@ -71,10 +95,10 @@
     
     <item>
       <title>magic blue</title>
-      <link>https://alasutoru.github.io/fa421101/post/magic-blue/</link>
+      <link>http://localhost:1313/fa421101/post/magic-blue/</link>
       <pubDate>Thu, 10 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alasutoru.github.io/fa421101/post/magic-blue/</guid>
+      <guid>http://localhost:1313/fa421101/post/magic-blue/</guid>
       
         <description>【魔幻時刻】
 我們一向喜歡欣賞夕陽， 可是你注意到嗎? 太陽下山後半小時之間， 也是天空最美麗時候? 有人稱這叫「魔幻時刻」（magic hour）。
@@ -84,10 +108,10 @@
     
     <item>
       <title>思念</title>
-      <link>https://alasutoru.github.io/fa421101/post/%E6%80%9D%E5%BF%B5/</link>
+      <link>http://localhost:1313/fa421101/post/%E6%80%9D%E5%BF%B5/</link>
       <pubDate>Thu, 03 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alasutoru.github.io/fa421101/post/%E6%80%9D%E5%BF%B5/</guid>
+      <guid>http://localhost:1313/fa421101/post/%E6%80%9D%E5%BF%B5/</guid>
       
         <description>習慣望著 你 離去的方向
 無邊的思念 就在起漣漪的 心底 漫起
@@ -98,10 +122,10 @@
     
     <item>
       <title>正點日曆</title>
-      <link>https://alasutoru.github.io/fa421101/post/%E6%AD%A3%E9%BB%9E%E6%97%A5%E6%9B%86/</link>
+      <link>http://localhost:1313/fa421101/post/%E6%AD%A3%E9%BB%9E%E6%97%A5%E6%9B%86/</link>
       <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://alasutoru.github.io/fa421101/post/%E6%AD%A3%E9%BB%9E%E6%97%A5%E6%9B%86/</guid>
+      <guid>http://localhost:1313/fa421101/post/%E6%AD%A3%E9%BB%9E%E6%97%A5%E6%9B%86/</guid>
       
         <description>正點日曆
 讓陽光照進心靈 把心裡的陰霾通通洗掉
