@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 回眸處剪影</title>
-    <link>http://localhost:1313/fa421101/series/</link>
+    <link>https://alasutoru.github.io/fa421101/series/</link>
     <description>Recent content in Series on 回眸處剪影</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/fa421101/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://alasutoru.github.io/fa421101/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
