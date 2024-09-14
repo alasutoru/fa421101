@@ -6,7 +6,25 @@
     <description>Recent content in 電腦資訊 on 回眸處剪影</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jan 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://alasutoru.github.io/fa421101/tags/%E9%9B%BB%E8%85%A6%E8%B3%87%E8%A8%8A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Sep 2007 00:00:00 +0000</lastBuildDate><atom:link href="https://alasutoru.github.io/fa421101/tags/%E9%9B%BB%E8%85%A6%E8%B3%87%E8%A8%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kavo病毒解毒方法</title>
+      <link>https://alasutoru.github.io/fa421101/post/kavo%E7%97%85%E6%AF%92%E8%A7%A3%E6%AF%92%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Wed, 12 Sep 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://alasutoru.github.io/fa421101/post/kavo%E7%97%85%E6%AF%92%E8%A7%A3%E6%AF%92%E6%96%B9%E6%B3%95/</guid>
+      
+        <description>kavo病毒 解毒方法
+前幾夭女兒用隨身碟装數位相片沖洗
+沒想到從店家電腦帶回來病毒，
+當插上隨身碟電腦警告有kavo病毒 心想既然防毒軟體掃到
+應該就可以掃除才是
+想不到後來原有掃到病毒Kavo的卡巴斯基更新病毒碼後都無法清除
+以下是這知隻病毒的併發症狀
+kavo.exe 木馬Troj/Lineag-GLG 感染時 會發現你不能看到隱藏資料匣</description>
+      
+    </item>
+    
     <item>
       <title>緊急通告駭客進化了</title>
       <link>https://alasutoru.github.io/fa421101/post/%E7%B7%8A%E6%80%A5%E9%80%9A%E5%91%8A%E9%A7%AD%E5%AE%A2%E9%80%B2%E5%8C%96%E4%BA%86/</link>
@@ -14,7 +32,13 @@
       
       <guid>https://alasutoru.github.io/fa421101/post/%E7%B7%8A%E6%80%A5%E9%80%9A%E5%91%8A%E9%A7%AD%E5%AE%A2%E9%80%B2%E5%8C%96%E4%BA%86/</guid>
       
-        <description>使用雅虎即時通、msn 如果有朋友在線上，【而且他名字旁若有奇怪的網址連結也勿點】。 駭客己進化到會和您 《對談》，並現場傳照片給您． 要您接收檔案或要您看照片或當場傳網址給 您. 千萬不要點喔.請先和他對談. 確定是朋友本人無誤 …千萬要注意喔.. 重要訊息 .</description>
+        <description>使用雅虎即時通、msn
+如果有朋友在線上，【而且他名字旁若有奇怪的網址連結也勿點】。
+駭客己進化到會和您 《對談》，並現場傳照片給您．
+要您接收檔案或要您看照片或當場傳網址給 您.
+千萬不要點喔.請先和他對談.
+確定是朋友本人無誤 …千萬要注意喔..
+重要訊息 .</description>
       
     </item>
     
@@ -25,7 +49,14 @@
       
       <guid>https://alasutoru.github.io/fa421101/post/%E8%AB%8B%E4%BF%9D%E8%AD%B7%E4%BD%A0%E9%80%9A%E8%A8%8A%E9%8C%84%E4%B8%AD%E7%9A%84%E6%9C%8B%E5%8F%8B/</guid>
       
-        <description>很多人都曾經接收到病毒郵件後，不知不覺的也成了病毒散發者； 這是因為在病毒裡寫入了白動轉發送給通訊錄名單的程式。 在此告訴各位一個可以阻攔病毒郵件自動散發的方法， 只要在通訊錄中新增一個聯絡人 在姓氏(L)輸入：！ 在名字(F)輸入：Auto Sending Stop 其它欄位不要輸入任何文字並按下確定 在您的通訊錄中就會多了一個！Auto Sending Stop 的聯絡人 如此一來就可以阻斷自動散發病毒郵件的問題。 請轉發給你通訊錄中的所有人員，避免自己也成為受害者。 原理： 因為通訊錄是依姓名作排序 依據這個原理，「！」會排在第一個， ：當病毒要自動轉發送給通訊錄名單時， 碰到笫一個涌訊錄卻無mail address時 便會出現錯誤而停止其他通訊錄的發送， 進而達到保護你其他通訊錄中的朋友遭受病毒的散發</description>
+        <description>很多人都曾經接收到病毒郵件後，不知不覺的也成了病毒散發者；
+這是因為在病毒裡寫入了白動轉發送給通訊錄名單的程式。
+在此告訴各位一個可以阻攔病毒郵件自動散發的方法，
+只要在通訊錄中新增一個聯絡人
+在姓氏(L)輸入：！
+在名字(F)輸入：Auto Sending Stop
+其它欄位不要輸入任何文字並按下確定
+在您的通訊錄中就會多了一個！Auto Sending Stop 的聯絡人</description>
       
     </item>
     
