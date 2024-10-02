@@ -6,7 +6,101 @@
     <description>Recent content in 電腦資訊 on 回眸處剪影</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Jan 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://alasutoru.github.io/fa421101/tags/%E9%9B%BB%E8%85%A6%E8%B3%87%E8%A8%8A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jul 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://alasutoru.github.io/fa421101/tags/%E9%9B%BB%E8%85%A6%E8%B3%87%E8%A8%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>讓IE9與JAVA相容</title>
+      <link>https://alasutoru.github.io/fa421101/post/%E8%AE%93ie9%E8%88%87java%E7%9B%B8%E5%AE%B9/</link>
+      <pubDate>Thu, 28 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://alasutoru.github.io/fa421101/post/%E8%AE%93ie9%E8%88%87java%E7%9B%B8%E5%AE%B9/</guid>
+      
+        <description>5天前把工E從8升級到9，
+就一直出現一些麻煩，
+只要有JAVA的網站就無法開啟，
+包括PCHOME/YAM等等。
+這些網頁不能開啟的相容困擾，
+忍著不能上這些網頁到今天受不了了，
+這些網頁總不能一直不上去看啊！
+剛就把這問題解決了⋯…
+無法開啟可能的原因是：
+這些網站可能是針對舊版的 Internet Explorer 所設計。</description>
+      
+    </item>
+    
+    <item>
+      <title>IE9仍然不穩定會衝突？</title>
+      <link>https://alasutoru.github.io/fa421101/post/ie9%E4%BB%8D%E7%84%B6%E4%B8%8D%E7%A9%A9%E5%AE%9A%E6%9C%83%E8%A1%9D%E7%AA%81/</link>
+      <pubDate>Mon, 25 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://alasutoru.github.io/fa421101/post/ie9%E4%BB%8D%E7%84%B6%E4%B8%8D%E7%A9%A9%E5%AE%9A%E6%9C%83%E8%A1%9D%E7%AA%81/</guid>
+      
+        <description>前天7月23日使用電腦時
+電腦自動提示IE8要升級到IE9
+想想這是超勢遲早要升級的
+就按下閱始更新
+想不到更新後結果是造成一些不方便
+IE9部份網路是會衝突的？
+而且也沒有顯示如何解決？
+應該是IE9對HTML5及CSS3中的幾個重大功能
+確實没有得到完整支援
+尤其在使用JavaScript時更會不穩定。。。。.</description>
+      
+    </item>
+    
+    <item>
+      <title>電腦正在更新...0%</title>
+      <link>https://alasutoru.github.io/fa421101/post/%E9%9B%BB%E8%85%A6%E6%AD%A3%E5%9C%A8%E6%9B%B4%E6%96%B0...0/</link>
+      <pubDate>Thu, 19 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://alasutoru.github.io/fa421101/post/%E9%9B%BB%E8%85%A6%E6%AD%A3%E5%9C%A8%E6%9B%B4%E6%96%B0...0/</guid>
+      
+        <description>4月底自己用了1年多的WIN7桌上ASUS電腦：
+連續兩夭遇到一個問題
+關機時間比以往久因為它在更新，
+開機時都要等超過5分鐘：
+造成很多困擾…
+想出門電腦要關機出現，
+&amp;ldquo;正在準備設定 windows，請勿關閉電腦”要我不能關電源？
+要使用電腦時開機出現更新，
+開機後一直卡在0%.</description>
+      
+    </item>
+    
+    <item>
+      <title>在大陸買32G隨身碟要小心</title>
+      <link>https://alasutoru.github.io/fa421101/post/%E5%9C%A8%E5%A4%A7%E9%99%B8%E8%B2%B732g%E9%9A%A8%E8%BA%AB%E7%A2%9F%E8%A6%81%E5%B0%8F%E5%BF%83/</link>
+      <pubDate>Wed, 30 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://alasutoru.github.io/fa421101/post/%E5%9C%A8%E5%A4%A7%E9%99%B8%E8%B2%B732g%E9%9A%A8%E8%BA%AB%E7%A2%9F%E8%A6%81%E5%B0%8F%E5%BF%83/</guid>
+      
+        <description>日前女兒到廣州，
+回程在深圳華強北路逛國際電子城，
+看到一些臺灣仍然高價位的電子產品
+在那裡只要7分之1價格就可以買到，
+以為檢到便宜哩。
+於是買了4G/8G/32G等等好幾個隨身碟，
+尤其是2個32G隨身碟一個只要90元人民幣
+因為老板還當場試給你看是32G而深信不疑呢？
+當我聽說賈隨身碟還當場試給你看時，
+這舉動不是欲蓋彌彰嗎？這價格。.</description>
+      
+    </item>
+    
+    <item>
+      <title>昨天開始用windors 7</title>
+      <link>https://alasutoru.github.io/fa421101/post/%E6%98%A8%E5%A4%A9%E9%96%8B%E5%A7%8B%E7%94%A8windors-7/</link>
+      <pubDate>Sun, 07 Feb 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://alasutoru.github.io/fa421101/post/%E6%98%A8%E5%A4%A9%E9%96%8B%E5%A7%8B%E7%94%A8windors-7/</guid>
+      
+        <description>昨天開始使用WINDOWS 7了
+這是一部華碩的新機種CS 5111
+Intel E5300雙核心
+硬碟 SATA 500G
+吸入式DVD燒錄</description>
+      
+    </item>
+    
     <item>
       <title>行動碟資料要常備份</title>
       <link>https://alasutoru.github.io/fa421101/post/%E8%A1%8C%E5%8B%95%E7%A2%9F%E8%B3%87%E6%96%99%E8%A6%81%E5%B8%B8%E5%82%99%E4%BB%BD/</link>
